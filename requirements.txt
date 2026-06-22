@@ -3,7 +3,11 @@ uvicorn
 sqlalchemy
 alembic
 psycopg2-binary
-stripe
 python-jose
 passlib
 pytest
+python-multipart
+pdfplumber
+pydantic>=2.0
+python-dotenv
+requests
